@@ -42,7 +42,7 @@ form input {
 }
 
 form button {
-  background-color: #64b448;
+  background-color: #db1717;
   border-radius: 6px;
   border: none;
   color: white;
@@ -72,6 +72,18 @@ section {
 }
 
 .wrapper {
-  max-width: 60rem;
+  max-width: 40rem;
   margin: 0 auto;
+  align-self: auto;
+}
+
+.shoppingList{
+  text-align: center;
+  margin : auto;
+}
+
+
+.div {
+  text-align:center;
+  margin:auto;
 }
